@@ -18,7 +18,7 @@ See the process logs:
 
 # Uninstall
 
-    sudo node serviceInstall.js
+    sudo node serviceUninstall.js
 
 
 
